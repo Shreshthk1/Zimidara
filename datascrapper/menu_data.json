@@ -1,0 +1,718 @@
+[
+    {
+      "category": "Vegetarian Appetizers",
+      "items": [
+        {
+          "name": "Gol Gappa",
+          "price": "$10.99"
+        },
+        {
+          "name": "Papri Chaat",
+          "price": "$9.99"
+        },
+        {
+          "name": "Mix Papri Chaat (With Dahi Bhalla)",
+          "price": "$12.99"
+        },
+        {
+          "name": "Samosa Chaat",
+          "price": "$11.99"
+        },
+        {
+          "name": "Aloo Tikki With Cholle",
+          "price": "$11.99"
+        },
+        {
+          "name": "Mix Veg Pakora",
+          "price": "$9.99"
+        },
+        {
+          "name": "Paneer Pakora",
+          "price": "$12.99"
+        },
+        {
+          "name": "Spring Roll",
+          "price": "$9.99"
+        },
+        {
+          "name": "Dahi Bhalla",
+          "price": "$9.99"
+        },
+        {
+          "name": "Dry Manchurian",
+          "price": "$14.99"
+        },
+        {
+          "name": "Honey Garlic Caulifkower",
+          "price": "$15.00"
+        },
+        {
+          "name": "Paneer Cholle Bhature",
+          "price": "$15.00"
+        },
+        {
+          "name": "Cholle Bhature",
+          "price": "$11.99"
+        },
+        {
+          "name": "Pav Bhaji",
+          "price": "$11.99"
+        },
+        {
+          "name": "Zimidara Veg Platter",
+          "price": "$16.99"
+        },
+        {
+          "name": "Vegtarian Noodles/ Hakka Noodles",
+          "price": "$13.99"
+        },
+        {
+          "name": "Paneer Chilli",
+          "price": "$14.00"
+        },
+        {
+          "name": "Samosa",
+          "price": "$1.20"
+        },
+        {
+          "name": "Gobi Pakora",
+          "price": "$12.99"
+        },
+        {
+          "name": "Noodle Burger",
+          "price": "$6.99"
+        }
+      ]
+    },
+    {
+      "category": "Tandoori Appetizers (Vegetarian)",
+      "items": [
+        {
+          "name": "Tandoori Soya Chaap",
+          "price": "$15.00"
+        },
+        {
+          "name": "Kali Mirch Soya Chaap",
+          "price": "$13.99"
+        },
+        {
+          "name": "Malai Soya Chaap",
+          "price": "$13.99"
+        },
+        {
+          "name": "Hari Mirch Soya Chaap",
+          "price": "$13.99"
+        },
+        {
+          "name": "Chilli Soya Chaap",
+          "price": "$13.99"
+        },
+        {
+          "name": "Soya Chaap Platter",
+          "price": "$19.99"
+        },
+        {
+          "name": "Kali Mirch Paneer Tikka",
+          "price": "$14.99"
+        },
+        {
+          "name": "Haryali Paneer Tikki",
+          "price": "$14.99"
+        },
+        {
+          "name": "Amritsari Paneer Tikka",
+          "price": "$14.99"
+        },
+        {
+          "name": "Achari Paneer Tikka",
+          "price": "$14.99"
+        },
+        {
+          "name": "Malai Paneer Tikka",
+          "price": "$14.99"
+        },
+        {
+          "name": "Angara Paneer Tikka",
+          "price": "$14.99"
+        }
+      ]
+    },
+    {
+      "category": "Non Vegetarian Appetizers",
+      "items": [
+        {
+          "name": "Fish Pakora",
+          "price": "$12.99"
+        },
+        {
+          "name": "Chicken Pakora",
+          "price": "$11.99"
+        },
+        {
+          "name": "Chilli Chicken (Dry)",
+          "price": "$14.99"
+        },
+        {
+          "name": "Fish Chilli",
+          "price": "$14.99"
+        },
+        {
+          "name": "Shanghai Fish",
+          "price": "$14.99"
+        },
+        {
+          "name": "Chicken Hakka Noodles",
+          "price": "$14.99"
+        }
+      ]
+    },
+    {
+      "category": "Tandoori Appetizers (Non Vegetarian)",
+      "items": [
+        {
+          "name": "Tandoori Chicken",
+          "price": "$15.99"
+        },
+        {
+          "name": "Baby Whole Chicken",
+          "price": "$18.99"
+        },
+        {
+          "name": "Chicken Tikka",
+          "price": "$15.99"
+        },
+        {
+          "name": "Muglai Chicken Malai Tikka",
+          "price": "$15.99"
+        },
+        {
+          "name": "Chicken Seekh Kabab",
+          "price": "$15.99"
+        },
+        {
+          "name": "Haryali Chicken Tikka",
+          "price": "$15.99"
+        },
+        {
+          "name": "Hari Mirch Chicken Tikka",
+          "price": "$15.99"
+        },
+        {
+          "name": "Achari Chicken Tikka",
+          "price": "$15.99"
+        },
+        {
+          "name": "Tandoori Fish",
+          "price": "$15.99"
+        },
+        {
+          "name": "Achari Fish Tikka",
+          "price": "$15.99"
+        }
+      ]
+    },
+    {
+      "category": "Main Course (Vegetarian)",
+      "items": [
+        {
+          "name": "Amritsari Channa Masala",
+          "price": "$14.00"
+        },
+        {
+          "name": "Dal Makhni",
+          "price": "$14.00"
+        },
+        {
+          "name": "Dal Tadka",
+          "price": "$14.00"
+        },
+        {
+          "name": "Mix Vegetables",
+          "price": "$15.00"
+        },
+        {
+          "name": "Bhindi Masala",
+          "price": "$15.00"
+        },
+        {
+          "name": "Shahi Paneer",
+          "price": "$12.99"
+        },
+        {
+          "name": "Mutter Paneer",
+          "price": "$15.00"
+        },
+        {
+          "name": "Palak Paneer",
+          "price": "$14.99"
+        },
+        {
+          "name": "Malai Kofta",
+          "price": "$15.00"
+        },
+        {
+          "name": "Methi Mutter Malai",
+          "price": "$14.00"
+        },
+        {
+          "name": "Paneer Lababdar",
+          "price": "$13.99"
+        },
+        {
+          "name": "Paneer Makhni",
+          "price": "$14.00"
+        },
+        {
+          "name": "Nav Rattan Korma",
+          "price": "$14.99"
+        },
+        {
+          "name": "Kadahi Paneer",
+          "price": "$15.00"
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "price": "$13.99"
+        },
+        {
+          "name": "Mushroom Mutter",
+          "price": "$14.99"
+        },
+        {
+          "name": "Baingan Bhartha",
+          "price": "$14.00"
+        },
+        {
+          "name": "Karela Sabji",
+          "price": "$13.99"
+        },
+        {
+          "name": "Saag",
+          "price": "$14.99"
+        },
+        {
+          "name": "Paneer Tikka Masala",
+          "price": "$14.99"
+        },
+        {
+          "name": "Paneer Bhurji",
+          "price": "$15.00"
+        }
+      ]
+    },
+    {
+      "category": "Rice And Biryani",
+      "items": [
+        {
+          "name": "Plain Rice (Steamed)",
+          "price": "$4.99"
+        },
+        {
+          "name": "Jeera Rice",
+          "price": "$4.99"
+        },
+        {
+          "name": "Peas Pulao",
+          "price": "$8.00"
+        },
+        {
+          "name": "Vegetable Fried Rice",
+          "price": "$12.00"
+        },
+        {
+          "name": "Chicken Biryani",
+          "price": "$14.99"
+        },
+        {
+          "name": "Goat Biryani",
+          "price": "$14.99"
+        },
+        {
+          "name": "Hyderabad Goat Dam Biryani",
+          "price": "$15.99"
+        }
+      ]
+    },
+    {
+      "category": "Main Course (Non Vegetarian)",
+      "items": [
+        {
+          "name": "Palak Chicken",
+          "price": "$15.99"
+        },
+        {
+          "name": "Chicken Vandaloo",
+          "price": "$15.99"
+        },
+        {
+          "name": "Cream Chicken",
+          "price": "$15.99"
+        },
+        {
+          "name": "Chicken Coconut Curry",
+          "price": "$15.99"
+        },
+        {
+          "name": "Goat Curry",
+          "price": "$15.99"
+        },
+        {
+          "name": "Goat Rogan Josh",
+          "price": "$16.99"
+        },
+        {
+          "name": "Saag Gosht ( Goat / Lamb )",
+          "price": "$16.99"
+        },
+        {
+          "name": "Bhuna Gosht",
+          "price": "$16.99"
+        },
+        {
+          "name": "Amritsari Fish Curry",
+          "price": "$14.99"
+        },
+        {
+          "name": "Lamb Vandaloo",
+          "price": "$16.99"
+        },
+        {
+          "name": "Butter Chicken",
+          "price": "$14.99"
+        },
+        {
+          "name": "Chicken Curry",
+          "price": "$15.99"
+        },
+        {
+          "name": "Chicken Do Pyaza",
+          "price": "$15.99"
+        },
+        {
+          "name": "Chicken Lababdar",
+          "price": "$14.99"
+        },
+        {
+          "name": "Chilli Chicken Gravy",
+          "price": "$15.99"
+        },
+        {
+          "name": "Mango/Lemon Chicken",
+          "price": "$15.99"
+        },
+        {
+          "name": "Pepper Corn Chicken Curry",
+          "price": "$15.99"
+        },
+        {
+          "name": "Kadahi Gosht",
+          "price": "$16.99"
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "price": "$15.99"
+        },
+        {
+          "name": "Tawa Chicken Masala",
+          "price": "$15.99"
+        },
+        {
+          "name": "Chicken Bhurji",
+          "price": "$15.99"
+        }
+      ]
+    },
+    {
+      "category": "Raita/Salad",
+      "items": [
+        {
+          "name": "Plain Dahin",
+          "price": "$3.99"
+        },
+        {
+          "name": "Boondi Raita",
+          "price": "$6.00"
+        },
+        {
+          "name": "Mix Vegetable Raita",
+          "price": "$6.00"
+        },
+        {
+          "name": "Mint Raita",
+          "price": "$4.99"
+        },
+        {
+          "name": "Garden Salad",
+          "price": "$6.00"
+        },
+        {
+          "name": "Onion & Green Salad",
+          "price": "$4.00"
+        }
+      ]
+    },
+    {
+      "category": "Street Food",
+      "items": [
+        {
+          "name": "Fries",
+          "price": "$4.99"
+        },
+        {
+          "name": "Chocolate Naan",
+          "price": "$3.50"
+        },
+        {
+          "name": "Vegetarian Burger",
+          "price": "Unavailable"
+        },
+        {
+          "name": "Kathi Roll",
+          "price": "$8.99"
+        }
+      ]
+    },
+    {
+      "category": "Breads",
+      "items": [
+        {
+          "name": "Tandoori Roti",
+          "price": "$2.49"
+        },
+        {
+          "name": "Plain Naan",
+          "price": "$2.99"
+        },
+        {
+          "name": "Butter Naan",
+          "price": "$3.49"
+        },
+        {
+          "name": "Garlic Naan",
+          "price": "$3.95"
+        },
+        {
+          "name": "Paneer Garlic Naan",
+          "price": "$3.95"
+        },
+        {
+          "name": "Pudina Naan",
+          "price": "$3.99"
+        },
+        {
+          "name": "Lacha Parantha",
+          "price": "$4.99"
+        },
+        {
+          "name": "Extra Pav",
+          "price": "$2.25"
+        },
+        {
+          "name": "Makki Di Roti",
+          "price": "$3.99"
+        }
+      ]
+    },
+    {
+      "category": "Mithai",
+      "items": [
+        {
+          "name": "Gulabjamun",
+          "price": "$10.99"
+        },
+        {
+          "name": "Laddu",
+          "price": "$4.99"
+        },
+        {
+          "name": "Desi Ghee Laddu",
+          "price": "$9.99"
+        },
+        {
+          "name": "Barfi",
+          "price": "$10.99"
+        },
+        {
+          "name": "Besan Barfi",
+          "price": "$9.99"
+        },
+        {
+          "name": "Rassgulla",
+          "price": "$11.99"
+        },
+        {
+          "name": "Patisa",
+          "price": "$10.99"
+        },
+        {
+          "name": "Mix Mithai",
+          "price": "$11.99"
+        },
+        {
+          "name": "Besan Pinni",
+          "price": "$10.99"
+        },
+        {
+          "name": "Desi Ghee Pinni",
+          "price": "$11.99"
+        },
+        {
+          "name": "Dhodha",
+          "price": "$11.99"
+        },
+        {
+          "name": "Milk Cake",
+          "price": "$11.99"
+        },
+        {
+          "name": "Kaju Katli",
+          "price": "$11.99"
+        },
+        {
+          "name": "Khoya Barfi",
+          "price": "$11.99"
+        },
+        {
+          "name": "Gajrela",
+          "price": "$11.99"
+        },
+        {
+          "name": "Gajrela with Khoya",
+          "price": "$11.99"
+        },
+        {
+          "name": "Kaju Roll",
+          "price": "$11.99"
+        },
+        {
+          "name": "Kalakand",
+          "price": "$11.99"
+        },
+        {
+          "name": "Kaju Sandwich",
+          "price": "$11.99"
+        },
+        {
+          "name": "Pista Barfi",
+          "price": "$11.99"
+        },
+        {
+          "name": "Desi Ghee Jalebi",
+          "price": "$6.50"
+        }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        {
+          "name": "Rasmalai",
+          "price": "$3.99"
+        },
+        {
+          "name": "Hot Gulab Jamun",
+          "price": "$5.00"
+        },
+        {
+          "name": "Ice Cream",
+          "price": "$4.99"
+        }
+      ]
+    },
+    {
+      "category": "Drinks",
+      "items": [
+        {
+          "name": "Pop",
+          "price": "$1.99"
+        },
+        {
+          "name": "Water Bottle",
+          "price": "$1.99"
+        },
+        {
+          "name": "Mango Lassi",
+          "price": "$5.00"
+        },
+        {
+          "name": "Mango Shake",
+          "price": "$7.00"
+        },
+        {
+          "name": "Sweet Lassi",
+          "price": "$3.99"
+        },
+        {
+          "name": "Salted Lassi",
+          "price": "$3.99"
+        },
+        {
+          "name": "Plain Khatti Lassi",
+          "price": "$2.99"
+        },
+        {
+          "name": "Masala Soda",
+          "price": "$5.00"
+        }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "items": [
+        {
+          "name": "Aloo Parantha Combo",
+          "price": "$10.99"
+        },
+        {
+          "name": "Plain Parantha Combo",
+          "price": "$10.99"
+        },
+        {
+          "name": "Gobi Parantha Combo",
+          "price": "$10.99"
+        },
+        {
+          "name": "Paneer Parantha Combo",
+          "price": "$10.99"
+        },
+        {
+          "name": "mooli parantha combo",
+          "price": "$11.99"
+        }
+      ]
+    },
+    {
+      "category": "Combos",
+      "items": [
+        {
+          "name": "Meal Combo",
+          "price": "$18.00"
+        },
+        {
+          "name": "Lunch Combo",
+          "price": "$12.00"
+        },
+        {
+          "name": "Makki Di Roti & Saag",
+          "price": "$18.99"
+        }
+      ]
+    },
+    {
+      "category": "Uncategorized",
+      "items": [
+        {
+          "name": "6 Samosa Pack",
+          "price": "$7.20"
+        },
+        {
+          "name": "Kadhai Chicken",
+          "price": "$15.99"
+        },
+        {
+          "name": "Dehradooni Pindi Channa",
+          "price": "$13.99"
+        }
+      ]
+    }
+  ]
